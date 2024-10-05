@@ -5,7 +5,7 @@
     <link>http://localhost:1313/contributors/</link>
     <description>Recent content in Contributors on My Docs</description>
     <generator>Hugo</generator>
-    <language>fr</language>
+    <language>en</language>
     <copyright>Copyright (c) 2022-2024 Elasticlabs</copyright>
     <atom:link href="http://localhost:1313/contributors/index.xml" rel="self" type="application/rss+xml" />
   </channel>

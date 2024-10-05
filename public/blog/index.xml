@@ -5,7 +5,7 @@
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blog on My Docs</description>
     <generator>Hugo</generator>
-    <language>fr</language>
+    <language>en</language>
     <copyright>Copyright (c) 2022-2024 Elasticlabs</copyright>
     <lastBuildDate>Thu, 07 Sep 2023 16:27:22 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />

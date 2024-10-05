@@ -5,7 +5,7 @@
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
-    footer = 'Propulsé par <a class="text-muted" href="https://getdoks.org/">Doks</a> et Obsidian <a class="text-muted" href="https://obsidian.md/">Obsidian</a>'
+    footer = 'Propulsé par <a class="text-muted" href="https://getdoks.org/">Doks</a> et <a class="text-muted" href="https://obsidian.md/">Obsidian</a>'
 
 [de]
   languageName = "German"
