@@ -1,2 +1,2 @@
 # Overrides for production environment
-baseurl = "https://elasticlabs.github.io/ensg-docker-sdi-2025/"
+baseurl = "ensg-sdi-2025.elasticlabs.co"
