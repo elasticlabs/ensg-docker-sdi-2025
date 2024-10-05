@@ -5,8 +5,16 @@
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
-    footer = 'Brought to you by <a class="text-muted" href="https://thulite.io/">Thulite</a>'
-    alertText = '<a class="alert-link stretched-link fw-normal" href="/blog/example-post/">Doks version 1.0 just shipped!</a>'
+    footer = 'Brought to you by <a class="text-muted" href="https://getdoks.org/">Doks</a> and Obsidian <a class="text-muted" href="https://obsidian.md/">Obsidian</a>'
+
+[fr]
+  languageName = "French"
+  contentDir = "content/fr"
+  weight = 5
+  [fr.params]
+    languageISO = "FR"
+    languageTag = "fr-FR"
+    footer = 'Propulsé par <a class="text-muted" href="https://getdoks.org/">Doks</a> et Obsidian <a class="text-muted" href="https://obsidian.md/">Obsidian</a>'
 
 [de]
   languageName = "German"
